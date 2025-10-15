@@ -1,1 +1,1 @@
-print('Hello to Hexlet')
+from more_itertools import flatten 
