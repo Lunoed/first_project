@@ -1,1 +1,1 @@
-from more_itertools import flatten 
+import more_itertools 
